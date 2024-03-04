@@ -1,4 +1,4 @@
-require 'administrate/field/text'
+require "administrate/field/text"
 
 module Administrate
   module Field
